@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Arduino Lamp Controller</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="disconnect">Disconnect </string>
+    <string name="switchoffall">Switch off all</string>
+
+
+    <string name="action_settings">About</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="connect">Connect</string>
+    <string name="l1">L1</string>
+    <string name="l2">l2</string>
+    <string name="l3">l3</string>
+    <string name="switch_on_all">Switch on all</string>
+    <string name="brightness_0">Brightness: 0%</string>
+    <string name="key641">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmSFelBQFsdidG1yAyY7q196/hisN6Hozeb8gUlniRMY3BemuqUjqLbRlBvDXY9Xd8sGv092kJ24eBuPT4+4P1O1yd7ddc8KAaYrTGASvXopj4OHhRRZE6k9XDgaVNjLAKjqe1d3/lNGsSKJw8YC3UKocMQmqCHBHPY5m7JpAfsXJILjFw3ECgtWGRLLWxUwmNi1ZwCRzSfgnmPajauyk9EyaYOoqv</string>
+    <string name="key642">8BgokPVNarwcerSYRn8rwLwhtJkHPMfDsFPzEDPHIcFfXC0Hi/zf8Dmc5C7HcLtamZ/55k+</string>
+    <string name="key643">N1EG1wAkxeP1btNZ3TyHsKyV3K5+fybCmPIrx2YQHRuw6g3mWwIDAQAB</string>
+    <string name="home_circuit">Home Circuit</string>
+    <string name="purchase">Purchase</string>
+    <string name="action_share">Share</string>
+    <string name="l18">l1</string>
+    <string name="connect_to_bluetooth_device">Connect</string>
+    <string name="payload">fh09jhbdd7tvd5!!!!$%GHNfffffAbdullatheef^7</string>
+    <string name="dwonlmenu">Download </string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="if_you_like_this_app_please_rate_this_application">If you like this App, Please Rate it.</string>
+    <string name="download_pdf_tutorial">Download PDF Tutorial</string>
+    <string name="ok">Ok</string>
+    <string name="first_time">This Application is useful for controlling lamps from an Android phone by using Arduino. Please download the Tutorial PDF file by using download menu to know how to work this app. Do not Forget to rate this App if you like
+    </string>
+    <string name="home_screen">Home Screen</string>
+    <string name="connection_diagram_home_screen">Connection Diagram (Home Screen)</string>
+    <string name="arduino_program_home_screen">Arduino Program (Home Screen)</string>
+    <string name="for_premium">For Premium Users</string>
+    <string name="_8_lamp_control">8 Lamp Control</string>
+    <string name="rgb_control">RGB Control</string>
+    <string name="incandescent_lamp_brightness_control">Incandescent Lamp Brightness Control</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="locked">Locked</string>
+    <string name="l4">l4</string>
+    <string name="l5">l5</string>
+    <string name="l6">l6</string>
+    <string name="l7">l7</string>
+    <string name="l8">l8</string>
+    <string name="go">Go to Bluetooth Setting page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

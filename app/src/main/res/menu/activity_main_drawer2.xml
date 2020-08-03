@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item
+            android:id="@+id/nav_Home"
+
+            android:title="@string/home_screen" />
+
+
+    <item
+
+        android:id="@+id/nav_8Button"
+        android:title="@string/_8_lamp_control" />
+    <item
+        android:id="@+id/nav_RGB"
+
+
+        android:title="@string/rgb_control" />
+    <item
+        android:id="@+id/nav_incandescent"
+        android:title="@string/incandescent_lamp_brightness_control" />
+    <item
+        android:id="@+id/nav_ConnectionCircuit"
+
+
+        android:title="@string/connection_diagram_home_screen" />
+    <item
+        android:id="@+id/nav_Arduino_program"
+
+        android:title="@string/arduino_program_home_screen" />
+
+    <item
+        android:id="@+id/nav_pdf"
+
+        android:title="@string/download_pdf_tutorial" />
+    <item
+        android:id="@+id/nav_about"
+
+        android:title="@string/about" />
+    <!-- android:icon="@drawable/ic_menu_share"  android:icon="@drawable/ic_menu_send"-->
+    <item
+        android:id="@+id/nav_Exit"
+
+        android:title="@string/exit" />
+
+
+
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">100dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="connect_button_textsize">39sp</dimen>
+
+    <dimen name="connect_margin_top">4dp</dimen>
+
+    <dimen name="light_button_textsize">80sp</dimen>
+    <dimen name="light_button_margin_start_end">8dp</dimen>
+    <dimen name="light_button_padding">16dp</dimen>
+
+    <dimen name="imageviewrgb">50dp</dimen>
+    <dimen name="locker">45sp</dimen>
+
+     <dimen name="switch_all">40sp</dimen>
+
+    <dimen name="Brightness">36sp</dimen>
+
+    <dimen name="info_text_size">8sp</dimen>
+    <dimen name="info2_8button">10sp</dimen>
+
+    <dimen name="rgbtext">14sp</dimen>
+
+    <dimen name="sample_program">20sp</dimen>
+
+    <dimen name="incandescenttextsize">18sp</dimen>
+</resources>
